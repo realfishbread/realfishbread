@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="center">Contact ME!</h3>
+<h3 align="center">Contact Me!</h3>
 
 ###
 
