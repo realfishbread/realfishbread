@@ -1,8 +1,10 @@
+<h1 align="center">Hi, I'm YUNHEE 👋</h1>
+<p align="center"> Full-stack Developer |  Problem Solver</p>
 
+---
 
-<h2 align="center">tech stacks</h2>
+## 🚀 Tech Stack
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -60,12 +62,8 @@
 
 ###
 
-
-###
-
-<h2 align="center">contact me</h2>
-
-###
+---
+## 📫 Contact Me
 
 <div align="center">
 
@@ -85,7 +83,9 @@
 
 ###
 
-###
+---
+## 📊 GitHub Stats & Solve History
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realfishbread&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
