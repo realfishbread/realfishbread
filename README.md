@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm YUNHEE 👋</h1>
+
 <p align="center"> Full-stack Developer |  Problem Solver</p>
 
----
 
 ## 🚀 Tech Stack
 
@@ -60,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
 </div>
 
-###
+
 
 ---
 ## 📫 Contact Me
@@ -81,7 +80,7 @@
 
 </div>
 
-###
+
 
 ---
 ## 📊 GitHub Stats & Solve History
