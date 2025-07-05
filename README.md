@@ -1,8 +1,6 @@
 
 <h1 align="left"> Full-stack Developer |  Problem Solver</h3>
-<p align="left"> 안녕하세요, 다양한 도전을 즐기는 최윤희입니다. </p>
-
-<p align="left"> AWS 비용 절감을 위해 배포 서버를 쓰지 않을때 일시 중지하며 쓰고 있습니다. 참고 부탁드립니다.</p>
+<p align="left"> 안녕하세요, 다양한 도전을 즐기는 최윤희입니다.  AWS 비용 절감을 위해 배포 서버를 쓰지 않을때 일시 중지하며 쓰고 있습니다. 참고 부탁드립니다.</p>
 
 
 
