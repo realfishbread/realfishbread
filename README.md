@@ -1,13 +1,7 @@
 
-<h1 align="left"> 😺 Full-stack Developer |  Problem Solver 😸</h1>
+<h1 align="left">Full-stack Developer |  Problem Solver</h1>
 <p align="left"> 안녕하세요, 다양한 도전을 즐기는 최윤희입니다. </p>
 <p align="left"> AWS 비용 절감을 위해 배포 서버를 쓰지 않을때 일시 중지하며 쓰고 있습니다. 참고 부탁드립니다.</p>
-
-
-
-
-
-
 
 
 
@@ -61,3 +55,12 @@
 
 
 
+--- 
+
+**Demo Server Notice**
+>
+> AWS 비용 절감을 위해 본 포트폴리오용 배포 서버는 사용하지 않을 때 일시 중지된 상태일 수 있습니다. 이 점 양해 부탁드립니다.
+>
+> Currently, this portfolio server is paused when not in use to save on hosting costs. I appreciate your understanding! 
+>
+> AWSコスト削減のため、本ポートフォリオ用のデモサーバーは未使用時に一時停止している場合があります! 
