@@ -2,11 +2,17 @@
 <h1 align="left">Full-stack Developer |  Problem Solver</h1>
 <p align="left"> 안녕하세요, 다양한 도전을 즐기는 최윤희입니다. </p>
 
+<p align="left">
+  Junior Developer interested in <strong>App · Web · Cloud · Deep Learning</strong><br/>
+  Based in Seoul, South Korea 🇰🇷 | CS Major | Currently seeking opportunities
+</p>
+<p align="left">
+  🗣️ Languages I speak: Korean · English · Japanese<br/>
+</p>
+
 
 
 ## 🛠 Tech Stack
-
-<div align="left">
 
 **Frontend:** Flutter, React  
 **Backend:** Spring Boot, Django  
@@ -16,12 +22,7 @@
 
 
 
-
-
-
 ## 📫 Contact Me
-
-<div align="left">
 
 <a href="https://discordapp.com/users/yunissi_o.o" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
@@ -35,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 </a>
 
-</div>
 
 
 
