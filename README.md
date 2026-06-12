@@ -1,16 +1,15 @@
 
-<h1 align="left">Full-stack Developer |  Problem Solver</h1>
-<p align="left"> 안녕하세요, 다양한 도전을 즐기는 최윤희입니다. </p>
+<h1 align="left">Hi, I'm Yunhee 👋</h1>
+<h3 align="left">Full-stack Developer | Seoul, South Korea 🇰🇷</h3>
+<p align="left">안녕하세요, 다양한 도전을 즐기는 최윤희입니다.<p/>
 
 <p align="left">
-  Junior Developer interested in <strong>App · Web · Cloud · Deep Learning</strong><br/>
-  Based in Seoul, South Korea 🇰🇷 | CS Major | Currently seeking opportunities
-</p>
-<p align="left">
-  🗣️ Languages I speak: Korean · English · Japanese<br/>
+  🧑‍💻 Junior Developer interested in <strong>App · Web · Cloud · Deep Learning</strong><br/>
+  📍 Seoul, South Korea | 🎓 CS Major | 🔍 Currently seeking opportunities<br/>
+  🗣️ Languages I speak: 한국어 · English · 日本語<br/>
 </p>
 
-
+</br>
 
 ## 🛠 Tech Stack
 
@@ -21,6 +20,8 @@
 **Tools:** GitHub, VSCode, Redis, MySQL
 
 
+
+<br />
 
 ## 📫 Contact Me
 
@@ -37,10 +38,8 @@
 </a>
 
 
-
-
-
-<br />
+<br/>
+<br/>
 
 ## 📊 GitHub Stats & Solve History
 
@@ -53,12 +52,17 @@
 
 
 
---- 
+<br />
 
-**Demo Server Notice**
+
+
+> **Demo Server Notice**
 >
-> AWS 비용 절감을 위해 본 포트폴리오용 배포 서버는 사용하지 않을 때 일시 중지된 상태일 수 있습니다. 이 점 양해 부탁드립니다.
+> 포트폴리오 데모 서버는 비용 절감을 위해 미사용 시 일시 중지될 수 있습니다.
+> 확인을 원하시면 이메일로 문의해 주세요.
 >
-> Currently, this portfolio server is paused when not in use to save on hosting costs. I appreciate your understanding! 
+> The demo server may be paused when not in use to reduce hosting costs.
+> Feel free to reach out via email if you'd like it running.
 >
-> AWSコスト削減のため、本ポートフォリオ用のデモサーバーは未使用時に一時停止している場合があります! 
+> デモサーバーはコスト削減のため、未使用時に停止している場合があります。
+> ご確認をご希望の場合は、メールにてお問い合わせください。
